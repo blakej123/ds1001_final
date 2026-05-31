@@ -1,96 +1,51 @@
 sport,program,homepage,registration_url,platform_detected,notes
-Baseball,Canes Baseball,canesbaseball.net,,Unknown / Custom,
-Baseball,East Cobb Baseball,eastcobbbaseball.com,,Unknown / Custom,
-Baseball,Texas Baseball Ranch,texasbaseballranch.com,,Unknown / Custom,
-Baseball,Perfect Game (PGBA),perfectgame.org,,Unknown / Custom,
-Baseball,Area Codes Baseball,areacodebaseball.com,,Unknown / Custom,
-Baseball,ExtraInnings Baseball,extrainningsbaseball.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://extrainningsbaseball.com/
-Call log:
-  - navigating to ""https://extrainningsbaseball.com/"", waiting until ""domcontentloaded""
-"
-Baseball,Elite Baseball of Lemont,elitebaseballoflemont.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://elitebaseballoflemont.com/
-Call log:
-  - navigating to ""https://elitebaseballoflemont.com/"", waiting until ""domcontentloaded""
-"
-Baseball,Baseball Youth,baseballyouth.com,,Unknown / Custom,
-Baseball,Diamond Sports,diamondsportsinc.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://diamondsportsinc.com/
-Call log:
-  - navigating to ""https://diamondsportsinc.com/"", waiting until ""domcontentloaded""
-"
-Baseball,EvoShield Canes (Southeast),canesbaseball.net/southeast,,Unknown / Custom,
-Lacrosse,3d Lacrosse,3dlacrosse.com,,Unknown / Custom,
-Lacrosse,True Lacrosse,truelacrosse.com,,Unknown / Custom,
-Lacrosse,Predators Lacrosse,predatorslacrosse.com,,Unknown / Custom,
-Lacrosse,Leading Edge Lacrosse,leadingedgelacrosse.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://leadingedgelacrosse.com/
-Call log:
-  - navigating to ""https://leadingedgelacrosse.com/"", waiting until ""domcontentloaded""
-"
-Lacrosse,Laxachusetts,laxachusetts.com,,Unknown / Custom,
-Lacrosse,MadLax,madlax.com,,Unknown / Custom,
-Lacrosse,Chesapeake Bayhawks Youth,bayhawksyouth.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bayhawksyouth.com/
-Call log:
-  - navigating to ""https://bayhawksyouth.com/"", waiting until ""domcontentloaded""
-"
-Lacrosse,Trilogy Lacrosse,trilogylacrosse.com,,Unknown / Custom,
-Lacrosse,Express Lacrosse,expresslacrosse.com,,Unknown / Custom,
-Lacrosse,Annapolis Hawks,annapolishawks.com,,Unknown / Custom,
-Hockey,Little Caesars AAA Hockey,littlecaesarshockey.com,,Unknown / Custom,
-Hockey,Shattuck-St. Mary's Hockey,shattucksaintmarys.org,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://shattucksaintmarys.org/
-Call log:
-  - navigating to ""https://shattucksaintmarys.org/"", waiting until ""domcontentloaded""
-"
-Hockey,Chicago Mission AAA,chicagomission.com,,Unknown / Custom,
-Hockey,Honeybaked Hockey,honeybakedhockey.com,,Unknown / Custom,
-Hockey,Tri-City Storm,stormhockey.com,,Unknown / Custom,
-Hockey,Boston Jr. Bruins,jrbruins.com,,Unknown / Custom,
-Hockey,Team Illinois Hockey,teamillib.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://teamillib.com/
-Call log:
-  - navigating to ""https://teamillib.com/"", waiting until ""domcontentloaded""
-"
-Hockey,Colorado Thunderbirds,coloradothunderbirds.org,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://coloradothunderbirds.org/
-Call log:
-  - navigating to ""https://coloradothunderbirds.org/"", waiting until ""domcontentloaded""
-"
-Hockey,New Jersey Rockets,njrockets.com,,Unknown / Custom,
-Hockey,St. Louis Blues Elite Hockey,stlblueselite.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://stlblueselite.com/
-Call log:
-  - navigating to ""https://stlblueselite.com/"", waiting until ""domcontentloaded""
-"
-Soccer,Solar SC,solarsc.com,,Unknown / Custom,
-Soccer,Surf Soccer Club,surfsoccer.com,,Unknown / Custom,
-Soccer,FC Dallas Youth,fcdallas.com,,Unknown / Custom,
-Soccer,NCFC Youth,ncfcyouth.com,,Unknown / Custom,
-Soccer,Eclipse Select SC,eclipseselect.org,,Unknown / Custom,
-Soccer,PDA Soccer,pdasoccer.com,,Unknown / Custom,
-Soccer,LA Galaxy Academy,lagalaxy.com,,Unknown / Custom,
-Soccer,Concorde Fire,concordefire.com,,Unknown / Custom,
-Soccer,Houston Dash Academy,houstondash.com,,Unknown / Custom,
-Soccer,Sporting KC Academy,sportingkc.com,,Unknown / Custom,
-Basketball,Team Takeover,teamtakeoverhoops.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://teamtakeoverhoops.com/
-Call log:
-  - navigating to ""https://teamtakeoverhoops.com/"", waiting until ""domcontentloaded""
-"
-Basketball,Brad Beal Elite,bradbeaelite.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bradbeaelite.com/
-Call log:
-  - navigating to ""https://bradbeaelite.com/"", waiting until ""domcontentloaded""
-"
-Basketball,Oakland Soldiers,oaklandsoldiersbasketball.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://oaklandsoldiersbasketball.com/
-Call log:
-  - navigating to ""https://oaklandsoldiersbasketball.com/"", waiting until ""domcontentloaded""
-"
-Basketball,Mokan Elite,mokanelite.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mokanelite.com/
-Call log:
-  - navigating to ""https://mokanelite.com/"", waiting until ""domcontentloaded""
-"
-Basketball,PSA Cardinals,psacardinals.com,,Unknown / Custom,
-Basketball,All In Elite,allineliteua.com,,Unknown / Custom,
-Basketball,Team Penny,teampennyaau.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://teampennyaau.com/
-Call log:
-  - navigating to ""https://teampennyaau.com/"", waiting until ""domcontentloaded""
-"
-Basketball,NY Rens,nyrens.org,,Unknown / Custom,
-Basketball,Nightrydas Elite,nightrydaselite.com,,Unknown / Custom,
-Basketball,Howard Pulley Panthers,howardpulleypanthers.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://howardpulleypanthers.com/
-Call log:
-  - navigating to ""https://howardpulleypanthers.com/"", waiting until ""domcontentloaded""
-"
+Baseball,Canes Baseball,canesbaseball.net,https://canesbaseball.leagueapps.com/,LeagueApps,All Canes regional chapters funnel to canesbaseball.leagueapps.com for registration and payment.
+Baseball,East Cobb Baseball,eastcobbbaseball.com,https://east-cobb-baseball.sportngin.com/,SportsEngine,Registration hosted at east-cobb-baseball.sportngin.com; listed at sportsengine.com/org/east-cobb-baseball.
+Baseball,Texas Baseball Ranch,texasbaseballranch.com,https://membership.texasbaseballranch.com/,Custom (Memberful),Custom membership portal at membership.texasbaseballranch.com; phone/email registration also available (936-588-6762).
+Baseball,Perfect Game (PGBA),perfectgame.org,https://www.perfectgame.org/Registration/,Custom In-House,Fully proprietary registration and payment system at perfectgame.org/Registration/; credit card and check accepted online.
+Baseball,Area Codes Baseball,areacodebaseball.com,https://register.areacodebaseball.com/,Stack Sports,"Confirmed: ""Area Code Baseball, a Stack Sports Experience"" — registration at register.areacodebaseball.com via Stack Sports/Sports Connect."
+Baseball,ExtraInnings Baseball,extrainningsbaseball.com,N/A — site not resolving,,Domain does not resolve (ERR_NAME_NOT_RESOLVED). Site may be defunct or moved.
+Baseball,Elite Baseball of Lemont,elitebaseballoflemont.com,N/A — site not resolving,,Domain does not resolve (ERR_NAME_NOT_RESOLVED). No platform identified.
+Baseball,Baseball Youth,baseballyouth.com,https://www.baseballyouth.com/individuals/create-account.php,Custom (Athletx Sports Group),Custom registration at baseballyouth.com/individuals/create-account.php; owned by Athletx Sports Group; stay-to-play model with payment plans.
+Baseball,Diamond Sports,diamondsportsinc.com,N/A — site not resolving,,Domain does not resolve (ERR_NAME_NOT_RESOLVED). No platform identified.
+Baseball,EvoShield Canes (Southeast),canesbaseball.net/southeast,https://canesbaseball.leagueapps.com/,LeagueApps,Southeast chapter of Canes Baseball network; shares the main canesbaseball.leagueapps.com portal.
+Lacrosse,3d Lacrosse,3dlacrosse.com,https://register.threestep.com/site/register/?sportId=2,LeagueApps,"Part of 3STEP Sports; all 14 regional chapters on LeagueApps subdomains (e.g. 3dlacrosse-co.leagueapps.com, 3dlacrosse-nesouth.leagueapps.com). Master registration also at register.threestep.com."
+Lacrosse,True Lacrosse,truelacrosse.com,https://truelacrosse.leagueapps.com/,LeagueApps,"All regional chapters on LeagueApps subdomains: truelacrosse.leagueapps.com, truelacrossein.leagueapps.com, truelacrossemi.leagueapps.com, truelacrossefl.leagueapps.com, truelacrosseva.leagueapps.com, truelacrossewa.leagueapps.com."
+Lacrosse,Predators Lacrosse,predatorslacrosse.com,https://predatorslacrosse.com/,Unknown / Custom,Website live with $80 tryout fee; no third-party platform fingerprint identified from search or page content.
+Lacrosse,Leading Edge Lacrosse,leadingedgelacrosse.com,https://leadingedgeelite.leagueapps.com/,LeagueApps,"Confirmed: leadingedgeelite.leagueapps.com; LeagueApps published a case study featuring Leading Edge Lacrosse director Marc Moreau. Note: original URL leadingedgelacrosse.com did not resolve — correct site is leadingedgeelite.com."
+Lacrosse,Laxachusetts,laxachusetts.com,https://www.sportsengine.com/org/laxachusetts,SportsEngine,Listed at sportsengine.com/org/laxachusetts and sportsengine.com/org/laxachusetts-lacrosse. Based in Marshfield MA.
+Lacrosse,MadLax,madlax.com,https://www.sportsengine.com/org/madlax-3478,SportsEngine,"SportsEngine is confirmed website host and provides mobile app for Madlax families; payments via Visa/MC/Discover; charges appear as ""MDLX Events."""
+Lacrosse,Chesapeake Bayhawks Youth,bayhawksyouth.com,N/A — site not resolving,,Domain does not resolve (ERR_NAME_NOT_RESOLVED). No platform identified via search.
+Lacrosse,Trilogy Lacrosse,trilogylacrosse.com,https://trilogylacrosse.leagueapps.com/,LeagueApps,Confirmed: trilogylacrosse.leagueapps.com handles camps and event registrations. Founded 2005 by Ryan Boyle & Rob Lindsey.
+Lacrosse,Express Lacrosse,expresslacrosse.com,https://liexpress.leagueapps.com/,LeagueApps,"Long Island Express (flagship) confirmed at liexpress.leagueapps.com; expresslacrosse.com/logins/ links to regional LeagueApps portals for tuition and tryout registration."
+Lacrosse,Annapolis Hawks,annapolishawks.com,https://annapolishawks.leagueapps.com/,LeagueApps,"Confirmed: annapolishawks.leagueapps.com; main site annapolishawks.com/site/register routes there. Contact: HawksLacrosse@outlook.com."
+Hockey,Little Caesars AAA Hockey,littlecaesarshockey.com,https://www.littlecaesarshockey.com.app.crossbar.org/,Crossbar,"Full site hosted at littlecaesarshockey.com.app.crossbar.org — classic Crossbar white-label subdomain pattern. All tryouts, teams, and arena pages served via Crossbar."
+Hockey,Shattuck-St. Mary's Hockey,shattucksaintmarys.org,https://www.s-sm.org/athletics/hockey-center-of-excellence,Custom / Active Network,"Boarding school (not a travel club). Summer hockey camps use Active Network for registration; school enrollment through s-sm.org/admissions. Category note: fundamentally different model from club sports."
+Hockey,Chicago Mission AAA,chicagomission.com,https://chicagomission.com/fall-registration-payment/,Custom (WordPress),Custom WordPress site with embedded payment forms; accepts Visa/MC/Discover/Amex directly at chicagomission.com/fall-registration-payment/. No third-party sports platform detected.
+Hockey,Honeybaked Hockey,honeybakedhockey.com,https://www.sportsengine.com/org/honeybaked-hockey-club,SportsEngine,"Confirmed at sportsengine.com/org/honeybaked-hockey-club; 3.25% CC processing fee, no fee for electronic check (ECP) payments."
+Hockey,Tri-City Storm,stormhockey.com,https://stormhockey.sportngin.com/,SportsEngine,"stormhockey.sportngin.com confirmed for the USHL Tri-City Storm. Note: the youth feeder program (Jr. Storm) is at jrstormhockey.com with separate registration managed by TCYIHA."
+Hockey,Boston Jr. Bruins,jrbruins.com,https://www.bostonjuniorbruins.org/,Crossbar,"Confirmed Crossbar account setup required for Boston Junior Bruins registration (""Getting Started With Crossbar"" instructions). Multiple programs under bostonjuniorbruins.org."
+Hockey,Team Illinois Hockey,teamillib.com,N/A — site not resolving,,teamillib.com ERR_NAME_NOT_RESOLVED. Correct URL likely teamillinois.com; no platform confirmed from searches.
+Hockey,Colorado Thunderbirds,coloradothunderbirds.org,https://tbirdhockey.sportngin.com/,SportsEngine,"Confirmed: tbirdhockey.sportngin.com and sportsengine.com/org/colorado-thunderbirds-aaa-hockey; multiple tryout registration forms hosted on sportngin. Also at tbirdhockey.org/registration/."
+Hockey,New Jersey Rockets,njrockets.com,https://www.rocketshockeyclub.com/,Crossbar,"Confirmed: rocketshockeyclub.com/parent-resources/getting-started-with-crossbar. Also has legacy sportngin.com presence. Primary platform is Crossbar."
+Hockey,St. Louis Blues Elite Hockey,stlblueselite.com,https://www.stlaaablues.com/,Crossbar,"stlblueselite.com not resolving; correct org is St. Louis AAA Blues (stlaaablues.com). Official announcement confirms migration to Crossbar: ""Welcome to the new AAA Blues site! All new registrations are now delivered on the new platform."""
+Soccer,Solar SC,solarsc.com,https://solarsoccerclub.leagueapps.com/,LeagueApps,"Confirmed: solarsoccerclub.leagueapps.com for ECNL, ECNL-RL, Academy, and Competitive registration. Main site solarsoccerclub.net links to LeagueApps."
+Soccer,Surf Soccer Club,surfsoccer.com,https://members.surfsoccer.com/,PlayMetrics,"members.surfsoccer.com is the registration/member portal; domain naming and structure consistent with PlayMetrics white-label. Walnut Creek Surf Soccer (affiliated) confirmed on PlayMetrics."
+Soccer,FC Dallas Youth,fcdallas.com,https://www.sportsengine.com/org/fc-dallas-youth,SportsEngine,Confirmed: sportsengine.com/org/fc-dallas-youth; fcdallas.com/registration/ links to SportsEngine portal.
+Soccer,NCFC Youth,ncfcyouth.com,https://ncfcyouth.com/spring-registration,PlayMetrics,"Confirmed: NCFC Youth requires returning players to complete Intent to Play form ""in their Playmetrics account."" Tryout and spring registration managed via PlayMetrics."
+Soccer,Eclipse Select SC,eclipseselect.org,https://www.eclipseselect.org/,Unknown / Custom,eclipseselect.org is a custom or Wix site; no third-party sports registration platform confirmed. Registration may be handled via direct contact or a non-indexed portal.
+Soccer,PDA Soccer,pdasoccer.com,https://pdasoccer.demosphere-secure.com/,Demosphere (OTTO Sport AI),"Confirmed: pdasoccer.demosphere-secure.com and pdasoccer.ottosport.ai — Demosphere (now rebranded OTTO Sport AI) platform. GotSoccer used for some team online check-in events."
+Soccer,LA Galaxy Academy,lagalaxy.com,https://youth.lagalaxy.com/programs/,DaySmart,"Confirmed: LA Galaxy youth programs use DaySmart for registration and payment. Cash not accepted; credit card only. Applies to Galaxy Juniors, Skills Training, camps, and GDP programs."
+Soccer,Concorde Fire,concordefire.com,https://www.sportsengine.com/org/concorde-fire-soccer-club,SportsEngine,"Confirmed: sportsengine.com/org/concorde-fire-soccer-club. Club has 6 branches (Central, AIS, Cobb, North, South, West); all managed through SportsEngine."
+Soccer,Houston Dash Academy,houstondash.com,https://houstondynamoyouth.leagueapps.com/camps,LeagueApps,Confirmed: houstondynamoyouth.leagueapps.com for Houston Dash and Dynamo youth camps and academy programs (boys and girls ages 6-16).
+Soccer,Sporting KC Academy,sportingkc.com,https://www.sportingkcacademy.com/,SportsEngine,"Confirmed: Sporting KC expanded SportsEngine technology partnership; SportsEngine provides branded registration for all Academy Affiliates and Sporting Club Network (SCN) clubs."
+Basketball,Team Takeover,teamtakeoverhoops.com,https://www.team-takeover.com/registration,Custom,Custom registration page at team-takeover.com/registration. DC/MD/VA area premier AAU program. No third-party sports registration platform identified.
+Basketball,Brad Beal Elite,bradbeaelite.com,https://stleagles.leagueapps.com/,LeagueApps,"Registration via stleagles.leagueapps.com (St. Louis Eagles org, aka Bradley Beal Elite). Main site bradleybealelite.com; social media directs to LeagueApps."
+Basketball,Oakland Soldiers,oaklandsoldiersbasketball.com,https://www.soldierbasketball.com/,Custom / Exposure Events,"soldierbasketball.com is main site; tournament registration via basketball.exposureevents.com. No dedicated club registration platform identified. Oakland Soldiers is AAU licensed."
+Basketball,Mokan Elite,mokanelite.com,https://mokanbasketball.com/,Custom,"mokanbasketball.com is main site (501c3 nonprofit); Fall League and event registration on own platform. Programs for 2nd-11th grade; 500+ participants annually."
+Basketball,PSA Cardinals,psacardinals.com,https://www.psacardinals.com/,Custom,"psacardinals.com is the hub for NYC's premier AAU program, based in the Bronx; no third-party registration platform confirmed from search."
+Basketball,All In Elite,allineliteua.com,https://allineliteua.com/,Custom (Squarespace),"allineliteua.com; Under Armour Association flagship program. ""Team Links"" page listed as Coming Soon; no third-party registration platform confirmed."
+Basketball,Team Penny,teampennyaau.com,N/A — site not resolving,,teampennyaau.com ERR_NAME_NOT_RESOLVED. Penny Hardaway Basketball Camp at pennyhardawaybasketballcamp.com uses credit card registration (platform unconfirmed).
+Basketball,NY Rens,nyrens.org,https://nyrhoops.sportngin.com/,SportsEngine,"Confirmed: nyrhoops.sportngin.com for tryout and program registration; accepts Visa/MC. Main org site is nyrhoops.org. Note: nyrens.org is a different/legacy domain."
+Basketball,Nightrydas Elite,nightrydaselite.com,https://nightrydaselite.ticketleap.com/,TicketLeap + Exposure Events,"nightrydaselite.ticketleap.com for tuition/tickets; tournament registration via basketball.exposureevents.com. Multi-state operation (FL, LA, GA, TX)."
+Basketball,Howard Pulley Panthers,howardpulleypanthers.com,https://howardpulleybasketball.sportngin.com/,SportsEngine,"Confirmed: howardpulleybasketball.sportngin.com; SportsEngine payment programs found for 2021 and 2023 seasons; accepts Visa/MC/Discover and checking account. Note: howardpulleypanthers.com did not resolve — correct domain is howardpulleybasketball.com."
