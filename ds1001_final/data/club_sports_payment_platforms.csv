@@ -1,0 +1,96 @@
+sport,program,homepage,registration_url,platform_detected,notes
+Baseball,Canes Baseball,canesbaseball.net,,Unknown / Custom,
+Baseball,East Cobb Baseball,eastcobbbaseball.com,,Unknown / Custom,
+Baseball,Texas Baseball Ranch,texasbaseballranch.com,,Unknown / Custom,
+Baseball,Perfect Game (PGBA),perfectgame.org,,Unknown / Custom,
+Baseball,Area Codes Baseball,areacodebaseball.com,,Unknown / Custom,
+Baseball,ExtraInnings Baseball,extrainningsbaseball.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://extrainningsbaseball.com/
+Call log:
+  - navigating to ""https://extrainningsbaseball.com/"", waiting until ""domcontentloaded""
+"
+Baseball,Elite Baseball of Lemont,elitebaseballoflemont.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://elitebaseballoflemont.com/
+Call log:
+  - navigating to ""https://elitebaseballoflemont.com/"", waiting until ""domcontentloaded""
+"
+Baseball,Baseball Youth,baseballyouth.com,,Unknown / Custom,
+Baseball,Diamond Sports,diamondsportsinc.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://diamondsportsinc.com/
+Call log:
+  - navigating to ""https://diamondsportsinc.com/"", waiting until ""domcontentloaded""
+"
+Baseball,EvoShield Canes (Southeast),canesbaseball.net/southeast,,Unknown / Custom,
+Lacrosse,3d Lacrosse,3dlacrosse.com,,Unknown / Custom,
+Lacrosse,True Lacrosse,truelacrosse.com,,Unknown / Custom,
+Lacrosse,Predators Lacrosse,predatorslacrosse.com,,Unknown / Custom,
+Lacrosse,Leading Edge Lacrosse,leadingedgelacrosse.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://leadingedgelacrosse.com/
+Call log:
+  - navigating to ""https://leadingedgelacrosse.com/"", waiting until ""domcontentloaded""
+"
+Lacrosse,Laxachusetts,laxachusetts.com,,Unknown / Custom,
+Lacrosse,MadLax,madlax.com,,Unknown / Custom,
+Lacrosse,Chesapeake Bayhawks Youth,bayhawksyouth.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bayhawksyouth.com/
+Call log:
+  - navigating to ""https://bayhawksyouth.com/"", waiting until ""domcontentloaded""
+"
+Lacrosse,Trilogy Lacrosse,trilogylacrosse.com,,Unknown / Custom,
+Lacrosse,Express Lacrosse,expresslacrosse.com,,Unknown / Custom,
+Lacrosse,Annapolis Hawks,annapolishawks.com,,Unknown / Custom,
+Hockey,Little Caesars AAA Hockey,littlecaesarshockey.com,,Unknown / Custom,
+Hockey,Shattuck-St. Mary's Hockey,shattucksaintmarys.org,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://shattucksaintmarys.org/
+Call log:
+  - navigating to ""https://shattucksaintmarys.org/"", waiting until ""domcontentloaded""
+"
+Hockey,Chicago Mission AAA,chicagomission.com,,Unknown / Custom,
+Hockey,Honeybaked Hockey,honeybakedhockey.com,,Unknown / Custom,
+Hockey,Tri-City Storm,stormhockey.com,,Unknown / Custom,
+Hockey,Boston Jr. Bruins,jrbruins.com,,Unknown / Custom,
+Hockey,Team Illinois Hockey,teamillib.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://teamillib.com/
+Call log:
+  - navigating to ""https://teamillib.com/"", waiting until ""domcontentloaded""
+"
+Hockey,Colorado Thunderbirds,coloradothunderbirds.org,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://coloradothunderbirds.org/
+Call log:
+  - navigating to ""https://coloradothunderbirds.org/"", waiting until ""domcontentloaded""
+"
+Hockey,New Jersey Rockets,njrockets.com,,Unknown / Custom,
+Hockey,St. Louis Blues Elite Hockey,stlblueselite.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://stlblueselite.com/
+Call log:
+  - navigating to ""https://stlblueselite.com/"", waiting until ""domcontentloaded""
+"
+Soccer,Solar SC,solarsc.com,,Unknown / Custom,
+Soccer,Surf Soccer Club,surfsoccer.com,,Unknown / Custom,
+Soccer,FC Dallas Youth,fcdallas.com,,Unknown / Custom,
+Soccer,NCFC Youth,ncfcyouth.com,,Unknown / Custom,
+Soccer,Eclipse Select SC,eclipseselect.org,,Unknown / Custom,
+Soccer,PDA Soccer,pdasoccer.com,,Unknown / Custom,
+Soccer,LA Galaxy Academy,lagalaxy.com,,Unknown / Custom,
+Soccer,Concorde Fire,concordefire.com,,Unknown / Custom,
+Soccer,Houston Dash Academy,houstondash.com,,Unknown / Custom,
+Soccer,Sporting KC Academy,sportingkc.com,,Unknown / Custom,
+Basketball,Team Takeover,teamtakeoverhoops.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://teamtakeoverhoops.com/
+Call log:
+  - navigating to ""https://teamtakeoverhoops.com/"", waiting until ""domcontentloaded""
+"
+Basketball,Brad Beal Elite,bradbeaelite.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bradbeaelite.com/
+Call log:
+  - navigating to ""https://bradbeaelite.com/"", waiting until ""domcontentloaded""
+"
+Basketball,Oakland Soldiers,oaklandsoldiersbasketball.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://oaklandsoldiersbasketball.com/
+Call log:
+  - navigating to ""https://oaklandsoldiersbasketball.com/"", waiting until ""domcontentloaded""
+"
+Basketball,Mokan Elite,mokanelite.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mokanelite.com/
+Call log:
+  - navigating to ""https://mokanelite.com/"", waiting until ""domcontentloaded""
+"
+Basketball,PSA Cardinals,psacardinals.com,,Unknown / Custom,
+Basketball,All In Elite,allineliteua.com,,Unknown / Custom,
+Basketball,Team Penny,teampennyaau.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://teampennyaau.com/
+Call log:
+  - navigating to ""https://teampennyaau.com/"", waiting until ""domcontentloaded""
+"
+Basketball,NY Rens,nyrens.org,,Unknown / Custom,
+Basketball,Nightrydas Elite,nightrydaselite.com,,Unknown / Custom,
+Basketball,Howard Pulley Panthers,howardpulleypanthers.com,,,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://howardpulleypanthers.com/
+Call log:
+  - navigating to ""https://howardpulleypanthers.com/"", waiting until ""domcontentloaded""
+"
