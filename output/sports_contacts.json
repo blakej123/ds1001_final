@@ -1,0 +1,964 @@
+[
+  {
+    "program_name": "Chicago Mission AAA",
+    "sport": "Hockey",
+    "website": "chicagomission.com",
+    "platform": "Custom (WordPress)",
+    "tpv_min_k": 100,
+    "tpv_max_k": 750,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Finance / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "chicagomission.com — no dedicated finance role publicly listed; program directors handle operations",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Tom Mandarino",
+      "title": "Girls Program Director",
+      "email": "tomd@jrmission.com",
+      "linkedin_url": "",
+      "source_url": "chicagomission.com staff page | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Team Illinois Hockey",
+    "sport": "Hockey",
+    "website": "tihockey.com",
+    "platform": "Unknown",
+    "tpv_min_k": 100,
+    "tpv_max_k": 750,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "ProPublica nonprofit filing for Team Illinois Hockey Club (EIN 36-3666549) — officer names not indexed publicly. Visit tihockey.com/about/ directly.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Research Required",
+      "title": "Executive Director / President",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "tihockey.com/about/ — page requires login; founded 1982, based in West Dundee IL. Contact: Team Illinois AAA Hockey Facebook page",
+      "confidence": "low"
+    }
+  },
+  {
+    "program_name": "Buffalo Jr. Sabres",
+    "sport": "Hockey",
+    "website": "buffalojrsabres.com",
+    "platform": "PayPal (direct)",
+    "tpv_min_k": 100,
+    "tpv_max_k": 750,
+    "region": "Northeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "buffalojrsabres.com — no dedicated finance officer publicly listed; dues collected via PayPal direct",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Pat Kaleta",
+      "title": "President / Hockey Director",
+      "email": "info@buffalojrsabres.com",
+      "linkedin_url": "",
+      "source_url": "buffalojrsabres.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "North Jersey Avalanche",
+    "sport": "Hockey",
+    "website": "northjerseyavalanche.com",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 100,
+    "tpv_max_k": 750,
+    "region": "Northeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Finance",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "northjerseyavalanche.org — no finance officer publicly listed. Phone: (973) 713-6760",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Dan May",
+      "title": "Club President / Director of Hockey Operations",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.tier1hockeyfederation.com/north-jersey-avalanche/ | Atlantic Hockey Federation listing",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Western Mass Warriors",
+    "sport": "Hockey",
+    "website": "westernmasswarriors.com",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 100,
+    "tpv_max_k": 750,
+    "region": "Northeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "westernmasswarriors.com — no public staff listing found in web search; site may require direct visit",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Research Required",
+      "title": "Executive Director / Founder",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "htosports.com/teams listing for WESTERNMASSWARRIORS. No named individual found in public search. Try westernmasswarriors.com/about directly.",
+      "confidence": "low"
+    }
+  },
+  {
+    "program_name": "Texas Baseball Ranch",
+    "sport": "Baseball",
+    "website": "texasbaseballranch.com",
+    "platform": "Custom (Memberful)",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "South",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Business Manager / Finance",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "texasbaseballranch.com — founder-operated, small staff. Finance handled internally. Phone: 936-588-6762",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Ron Wolforth",
+      "title": "Founder / CEO",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/ron-wolforth/",
+      "source_url": "texasbaseballranch.com/about | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Perfect Game (PGBA)",
+    "sport": "Baseball",
+    "website": "perfectgame.org",
+    "platform": "Custom In-House",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "CFO / Director of Finance",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "perfectgame.org — proprietary platform, large org (Cedar Rapids IA). Finance leadership not publicly listed. Check LinkedIn for 'Perfect Game CFO'.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Rob Ponger",
+      "title": "CEO",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "perfectgame.org leadership | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Baseball Youth",
+    "sport": "Baseball",
+    "website": "baseballyouth.com",
+    "platform": "Custom (Athletx Sports Group)",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "Mid-Atlantic",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "CFO / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "baseballyouth.com — owned by Athletx Sports Group; finance operations handled at Athletx level",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Jim Haddaway",
+      "title": "CEO / Founder (Athletx Sports Group)",
+      "email": "info@baseballyouth.com",
+      "linkedin_url": "",
+      "source_url": "baseballyouth.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "USSSA Baseball",
+    "sport": "Baseball",
+    "website": "usssa.com",
+    "platform": "Custom In-House",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "National",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "CFO / VP Finance",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "usssa.com — large national org based in Viera FL; finance leadership not publicly listed. Check LinkedIn: 'USSSA CFO' or 'USSSA finance'.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Don DeDonatis III",
+      "title": "Executive Director / CEO",
+      "email": "info@usssa.com",
+      "linkedin_url": "",
+      "source_url": "usssa.com leadership page | MC prompt known_contacts",
+      "confidence": "medium"
+    }
+  },
+  {
+    "program_name": "Texas Bombers Baseball",
+    "sport": "Baseball",
+    "website": "texasbombers.com",
+    "platform": "Square",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "South",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "texasbombers.com — small regional org; no staff directory found publicly. Facebook: @Texasbomberselite.club",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Research Required",
+      "title": "Founder / Director",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "texasbombers.com — USSSA-registered youth baseball org (Texas); no founder name found in web search. Try direct site visit.",
+      "confidence": "low"
+    }
+  },
+  {
+    "program_name": "D-BAT Academies",
+    "sport": "Baseball",
+    "website": "dbat.com",
+    "platform": "Custom (membership.dbat.net)",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "National",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "CFO / Director of Finance",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.zoominfo.com/pic/d-bat-academies/29838506 — ZoomInfo shows CFO role exists but name masked on free tier. Corporate office: 2101 Midway Rd Ste 300, Carrollton TX 75006",
+      "confidence": "medium"
+    },
+    "contact_2_head": {
+      "full_name": "Cade Griffis",
+      "title": "Founder / CEO",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/cade-griffis-5025724a/",
+      "source_url": "https://www.crunchbase.com/person/cade-griffis | ZoomInfo | dbatsports.com/about-d-bat/",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Team One Baseball",
+    "sport": "Baseball",
+    "website": "teamonebaseball.com",
+    "platform": "Custom In-House",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "National",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "CFO / Finance Director",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "teamonebaseball.com — part of Baseball Factory (factorathletics.com). Tournament contact: rgardner@factorathletics.com",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Steve Sclafani",
+      "title": "CEO / Co-Founder (Baseball Factory)",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "Baseball Factory Wikipedia | teamonebaseball.com redirects to Baseball Factory. Organization founded 1994 Columbia MD.",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Prep Baseball Report (PBR)",
+    "sport": "Baseball",
+    "website": "prepbaseballreport.com",
+    "platform": "Custom In-House",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "National",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "CFO / VP Finance",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "prepbaseballreport.com/directors — 349 employees, McCook IL HQ; finance leadership not in public staff listing",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Sean Duncan",
+      "title": "Founder / Owner / President",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/seduncan/",
+      "source_url": "https://www.crunchbase.com/person/sean-duncan-fc52 | prepbaseballreport.com. Founded 2005.",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Mid-South Baseball",
+    "sport": "Baseball",
+    "website": "midsouthbaseball.com",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "Southeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Bill Miller",
+      "title": "Owner / Primary Contact",
+      "email": "bmiller@midsouthbaseball.com",
+      "linkedin_url": "",
+      "source_url": "midsouthbaseball.com contact page | ContactOut listing for Drew Williams at Mid South Baseball Club",
+      "confidence": "medium"
+    },
+    "contact_2_head": {
+      "full_name": "Matt Miller",
+      "title": "Co-Owner / Operations",
+      "email": "matt.miller@midsouthbaseball.com",
+      "linkedin_url": "",
+      "source_url": "midsouthbaseball.com — Louisville KY. PO Box 581202, Louisville KY 40268. Phone: 502-386-9673",
+      "confidence": "medium"
+    }
+  },
+  {
+    "program_name": "Eclipse Select SC",
+    "sport": "Soccer",
+    "website": "eclipseselect.org",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 50,
+    "tpv_max_k": 500,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Sarah Dames",
+      "title": "CFO",
+      "email": "sarah@eclipseselect.org",
+      "linkedin_url": "",
+      "source_url": "eclipseselect.org staff page | MC prompt known_contacts",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Enrique Peguero Jr.",
+      "title": "CEO / Founder",
+      "email": "info@eclipseselect.org",
+      "linkedin_url": "",
+      "source_url": "eclipseselect.org | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Michigan Hawks",
+    "sport": "Soccer",
+    "website": "michiganhawks.com",
+    "platform": "Custom (BYGA)",
+    "tpv_min_k": 50,
+    "tpv_max_k": 500,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Business Manager / Treasurer",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "michiganhawks.com — ECNL club; no dedicated finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Doug Landefeld",
+      "title": "Executive Director",
+      "email": "doug@hawks.soccer",
+      "linkedin_url": "",
+      "source_url": "michiganhawks.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Heat FC (San Diego)",
+    "sport": "Soccer",
+    "website": "heatfc.com",
+    "platform": "Custom (Elite Soccer Clubs)",
+    "tpv_min_k": 50,
+    "tpv_max_k": 500,
+    "region": "West",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Business Manager / Treasurer",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "heatfc.com — no staff directory found publicly. SoccerNation article references elite tryouts but no finance contact.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Research Required",
+      "title": "Executive Director / Club Director",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "heatfc.com — site returned 403 on fetch. Facebook page: facebook.com/heatfcsandiego. Try direct site visit.",
+      "confidence": "low"
+    }
+  },
+  {
+    "program_name": "Predators Lacrosse",
+    "sport": "Lacrosse",
+    "website": "predatorslacrosse.com",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 60,
+    "tpv_max_k": 400,
+    "region": "Mid-Atlantic",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "predatorslacrosse.com — small club; no dedicated finance officer publicly listed. $80 tryout fee on site.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Eric Greenberg",
+      "title": "CEO / Founder",
+      "email": "info@predatorslacrosse.com",
+      "linkedin_url": "",
+      "source_url": "predatorslacrosse.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Chesapeake Bayhawks Youth",
+    "sport": "Lacrosse",
+    "website": "bayhawksyouth.com",
+    "platform": "Unknown",
+    "tpv_min_k": 60,
+    "tpv_max_k": 400,
+    "region": "Mid-Atlantic",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "bayhawksyouth.com — domain ERR_NAME_NOT_RESOLVED; org may operate under Chesapeake Bayhawks MLL franchise. ZoomInfo shows employee directory.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Research Required",
+      "title": "Executive Director / Youth Director",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "bayhawksyouth.com not resolving. Check ZoomInfo: zoominfo.com/c/chesapeake-bayhawks/371621925 for current youth program contacts.",
+      "confidence": "low"
+    }
+  },
+  {
+    "program_name": "OC Batbusters",
+    "sport": "Softball",
+    "website": "ocbatbusters.com",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 50,
+    "tpv_max_k": 400,
+    "region": "West",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "ocbatbusters.com — founder-run org; no separate finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Joe Grubbs",
+      "title": "Founder / Director",
+      "email": "ocbathletics@gmail.com",
+      "linkedin_url": "",
+      "source_url": "ocbatbusters.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Carolina Chaos Softball",
+    "sport": "Softball",
+    "website": "carolinachaos.org",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 50,
+    "tpv_max_k": 400,
+    "region": "Southeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "carolinachaos.org — no finance staff publicly listed. Facebook page: facebook.com/100068367065143 (Carolina Chaos Travel Softball). Direct contact needed.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Research Required",
+      "title": "Founder / Director",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "carolinachaos.org — non-profit fast-pitch travel softball; Instagram @carolinachaos_softball. No founder name found in public search.",
+      "confidence": "low"
+    }
+  },
+  {
+    "program_name": "Ohio Outlaws Fastpitch",
+    "sport": "Softball",
+    "website": "ohiooutlaws.com",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 50,
+    "tpv_max_k": 400,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Jeff Shaffer",
+      "title": "Director of Operations",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "ohiooutlaws.com staff listing | WebSearch results: ProPublica nonprofit EIN 37-1593164",
+      "confidence": "medium"
+    },
+    "contact_2_head": {
+      "full_name": "Warren Wolff",
+      "title": "President / Founder",
+      "email": "ohiooutlawsfp@gmail.com",
+      "linkedin_url": "",
+      "source_url": "ohiooutlaws.com | WebSearch results. Phone: 216-704-9908",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "A5 Volleyball",
+    "sport": "Volleyball",
+    "website": "a5volleyball.com",
+    "platform": "Custom (Sportwrench)",
+    "tpv_min_k": 40,
+    "tpv_max_k": 350,
+    "region": "Southeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Business Manager / Treasurer",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "a5volleyball.com — large club (Atlanta GA); no dedicated finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Gabe Aramian",
+      "title": "Executive Director",
+      "email": "info@a5volleyball.com",
+      "linkedin_url": "",
+      "source_url": "a5volleyball.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Munciana Volleyball",
+    "sport": "Volleyball",
+    "website": "munciana.com",
+    "platform": "Custom (register.munciana.com)",
+    "tpv_min_k": 40,
+    "tpv_max_k": 350,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Business Manager / Treasurer",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "munciana.com — Muncie IN club; no dedicated finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Mike Lingenfelter",
+      "title": "Co-Director",
+      "email": "info@munciana.com",
+      "linkedin_url": "",
+      "source_url": "munciana.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "KIVA Volleyball",
+    "sport": "Volleyball",
+    "website": "kivasports.net",
+    "platform": "Custom (register.kivasports.net)",
+    "tpv_min_k": 40,
+    "tpv_max_k": 350,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Business Manager / Treasurer",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "kivasports.net — no dedicated finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Courtney Robison-Dixon",
+      "title": "Director",
+      "email": "courtney@kivasports.net",
+      "linkedin_url": "",
+      "source_url": "kivasports.net | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Rox Volleyball",
+    "sport": "Volleyball",
+    "website": "roxvb.com",
+    "platform": "Custom (Shopify)",
+    "tpv_min_k": 40,
+    "tpv_max_k": 350,
+    "region": "National",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "CFO / Finance Director",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.zoominfo.com/pic/rox-volleyball-inc/347887901 — finance role exists per ZoomInfo employee directory; name masked on free tier",
+      "confidence": "medium"
+    },
+    "contact_2_head": {
+      "full_name": "Troy D. Olson",
+      "title": "Chief Executive Officer",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/company/rox-volleyball",
+      "source_url": "https://www.zoominfo.com/c/rox-volleyball-inc/347887901 | roxvolleyball.com. HQ: 3520 Agricultural Center Dr Ste 310, St Augustine FL 32092",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Team Takeover",
+    "sport": "Basketball",
+    "website": "teamtakeoverhoops.com",
+    "platform": "Custom",
+    "tpv_min_k": 30,
+    "tpv_max_k": 200,
+    "region": "Mid-Atlantic",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "team-takeover.com — DC/MD/VA area AAU program; no dedicated finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Keith Stevens",
+      "title": "Founder / Director",
+      "email": "info@team-takeover.com",
+      "linkedin_url": "",
+      "source_url": "team-takeover.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Oakland Soldiers",
+    "sport": "Basketball",
+    "website": "soldierbasketball.com",
+    "platform": "Custom / Exposure Events",
+    "tpv_min_k": 30,
+    "tpv_max_k": 200,
+    "region": "West",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Lance Olivier",
+      "title": "Director of Player Personnel",
+      "email": "lance@soldierbasketball.com",
+      "linkedin_url": "",
+      "source_url": "soldierbasketball.com | MC prompt known_contacts",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Greg Davis",
+      "title": "Executive Director",
+      "email": "info@soldierbasketball.com",
+      "linkedin_url": "",
+      "source_url": "soldierbasketball.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Mokan Elite",
+    "sport": "Basketball",
+    "website": "mokanbasketball.com",
+    "platform": "Custom",
+    "tpv_min_k": 30,
+    "tpv_max_k": 200,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "mokanbasketball.com — 501c3 nonprofit, 500+ participants; no dedicated finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Matt Suther",
+      "title": "Founder / Director",
+      "email": "info@mokanbasketball.com",
+      "linkedin_url": "",
+      "source_url": "mokanbasketball.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "PSA Cardinals",
+    "sport": "Basketball",
+    "website": "psacardinals.com",
+    "platform": "Custom",
+    "tpv_min_k": 30,
+    "tpv_max_k": 200,
+    "region": "Northeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "psacardinals.com — NYC/Bronx premier AAU program; no dedicated finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Terrance Williams",
+      "title": "Director / Founder",
+      "email": "info@psacardinals.com",
+      "linkedin_url": "",
+      "source_url": "psacardinals.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "All In Elite",
+    "sport": "Basketball",
+    "website": "allineliteua.com",
+    "platform": "Custom (Squarespace)",
+    "tpv_min_k": 30,
+    "tpv_max_k": 200,
+    "region": "Mid-Atlantic",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "allineliteua.com — Under Armour Association program; no dedicated finance officer publicly listed. Team Links listed as Coming Soon.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Ryan Silver",
+      "title": "Founder / Director",
+      "email": "info@allineliteua.com",
+      "linkedin_url": "",
+      "source_url": "allineliteua.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Nightrydas Elite",
+    "sport": "Basketball",
+    "website": "nightrydaselite.com",
+    "platform": "TicketLeap + Exposure Events",
+    "tpv_min_k": 30,
+    "tpv_max_k": 200,
+    "region": "Southeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "nightrydaselite.com — multi-state (FL/LA/GA/TX); no dedicated finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Jordan Maurice",
+      "title": "Director / Founder",
+      "email": "nightrydaselite@gmail.com",
+      "linkedin_url": "",
+      "source_url": "nightrydaselite.com | MC prompt known_contacts",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Georgia Stars",
+    "sport": "Basketball",
+    "website": "gastars.org",
+    "platform": "Custom (WordPress)",
+    "tpv_min_k": 30,
+    "tpv_max_k": 200,
+    "region": "Southeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "gastars.org — 501c3 nonprofit (EIN 13-4212335); IRS filing officer names in ProPublica but not public staff page. Visit gastars.org organizational chart: gastars.org/index1/?page_id=1156",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Norman Parker",
+      "title": "Founder / Director",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "gastars.org/index1/?page_id=22 history page | WebSearch results. Nike EYBL program est. 1988-1989.",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Indiana Elite",
+    "sport": "Basketball",
+    "website": "indianaelitebasketball.com",
+    "platform": "Custom / PayPal",
+    "tpv_min_k": 30,
+    "tpv_max_k": 200,
+    "region": "Midwest",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "indianaelitebasketball.com/staff-directors/ — staff page exists but finance roles not listed publicly",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Connor Basye",
+      "title": "President of Basketball Operations",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "indianaelitebasketball.com/staff-directors/ | WebSearch results. Co-founded with Bob Pryor (formerly Indiana Red/Bloomington Red), Exec Dir since 2006.",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "The Clubhouse CT",
+    "sport": "Baseball",
+    "website": "theclubhousect.com",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "Northeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Business Manager / Treasurer",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "theclubhousect.com — family-owned indoor baseball facility; no dedicated finance officer publicly listed. Contact via site contact form.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Mike Porzio",
+      "title": "Owner / Founder",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/company/theclubhousect",
+      "source_url": "https://www.theclubhousect.com/team/mike-porzio/ | YouTube: 'Mike Porzio - Owner and Founder of The CLUBHOUSE CT Interview'. Retired MLB pitcher (Rockies/White Sox), Milwaukee Brewers scout.",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Team Crush Baseball",
+    "sport": "Baseball",
+    "website": "crushbaseball.com",
+    "platform": "Unknown / Custom",
+    "tpv_min_k": 75,
+    "tpv_max_k": 600,
+    "region": "Northeast",
+    "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Business Manager / Treasurer",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "crushbaseball.com — Westchester County NY; no dedicated finance officer publicly listed",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Daniel Galati",
+      "title": "Part Owner / Director of Baseball Operations & Player Development",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.crushbaseball.com/about | WebSearch results. Founded 2019, one of the most prestigious travel baseball orgs in Westchester County NY.",
+      "confidence": "high"
+    }
+  },
+  {
+    "program_name": "Nor'East Clippers",
+    "sport": "Baseball",
+    "website": "noreastclippersofficial.com",
+    "platform": "SportsEngine",
+    "tpv_min_k": 30,
+    "tpv_max_k": 200,
+    "region": "Northeast",
+    "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Treasurer / Finance",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "noreastclippersofficial.com — 501c3 nonprofit (EIN 84-2565030, Charity Navigator); no finance officer publicly listed. Phone: (914) 606-1341",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Ryan Roman",
+      "title": "President / Founder",
+      "email": "info@noreastclippers.com",
+      "linkedin_url": "",
+      "source_url": "noreastclippersofficial.com/staff | ProPublica nonprofit filing | WebSearch. Port Chester NY, est. 2020. Port Chester HS graduate.",
+      "confidence": "high"
+    }
+  }
+]
