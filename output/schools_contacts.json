@@ -1,0 +1,422 @@
+[
+  {
+    "school_name": "Bishop Feehan High School",
+    "city": "Attleboro", "state": "MA", "website": "bishopfeehan.com",
+    "current_software": "manual / checks", "estimated_tpv": 11984745, "displacement_tier": 1,
+    "contact_1_finance": {
+      "full_name": "Lauren Cayer",
+      "title": "Director of Finance & Business Operations",
+      "email": "lcayer@bishopfeehan.com",
+      "linkedin_url": "",
+      "source_url": "https://www.zoominfo.com/p/Lauren-Cayer/-1140991313 | bishopfeehan.com/apps/pages administration page",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Timothy Sullivan Jr.",
+      "title": "President",
+      "email": "tsullivan@bishopfeehan.com",
+      "linkedin_url": "",
+      "source_url": "bishopfeehan.com/apps/pages administration page",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Collegiate School",
+    "city": "New York", "state": "NY", "website": "collegiateschool.org",
+    "current_software": "unknown", "estimated_tpv": 37305990, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Chief Financial & Operating Officer (CFOO)",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "NAIS job posting (careers.nais.org/jobs/20313840) shows CFOO search was open July 2024 — new hire name not publicly confirmed. Check collegiateschool.org/explore/directory directly.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Bodie Brizendine",
+      "title": "Interim Head of School",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/bodie-brizendine-b03b5a14/",
+      "source_url": "https://www.collegiateschool.org/explore/leadership | collegiateschool.org Facebook post welcoming interim HoS",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Kellenberg Memorial High School",
+    "city": "Uniondale", "state": "NY", "website": "kellenberg.org",
+    "current_software": "unknown", "estimated_tpv": 29892800, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Marietta Tartamella",
+      "title": "Director of Finance / Financial Supervisor",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/mariettatartamella",
+      "source_url": "https://rocketreach.co/marietta-tartamella-email_75133836 | https://www.zoominfo.com/p/Marietta-Tartamella/645794947 | kellenberg.org/about/finances/",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Bro. Kenneth M. Hoagland, S.M.",
+      "title": "Principal",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/brother-kenneth-hoagland-8a339b37/",
+      "source_url": "https://www.kellenberg.org/about/administration/ | https://www.zoominfo.com/p/Kenneth-Hoagland",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Shady Hill School",
+    "city": "Cambridge", "state": "MA", "website": "shs.org",
+    "current_software": "unknown", "estimated_tpv": 27931000, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Elizabeth Reid",
+      "title": "Chief Financial Officer",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://rocketreach.co/elizabeth-reid-email_23197249 | https://www.zoominfo.com/p/Elizabeth-Reid/1399735376 (email domain @shs.org confirmed, full address masked)",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Mark Stanek",
+      "title": "Head of School",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/mark-stanek-94806028/",
+      "source_url": "https://www.linkedin.com/posts/shady-hill-school_shady-hill-head-of-school-mark-stanek-welcomes-activity-7216771632315457537-vfY_ | shs.org/about/head-of-school-and-history",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Xaverian High School",
+    "city": "Brooklyn", "state": "NY", "website": "xaverian.org",
+    "current_software": "Magnus Health", "estimated_tpv": 25585000, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Dick Conti",
+      "title": "CFO",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/dick-conti-b16b8419/",
+      "source_url": "LinkedIn profile (Dick Conti – CFO – Xaverian High School) | ZoomInfo Xaverian employee directory",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Daniel Sharib",
+      "title": "Principal",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.xaverian.org/news-detail?pk=1313347 | https://www.linkedin.com/posts/xaverian_principal-daniel-sharib-96 (appointed 2022)",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "The Fessenden School",
+    "city": "West Newton", "state": "MA", "website": "fessenden.org",
+    "current_software": "unknown", "estimated_tpv": 25291750, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "John LeSaffre",
+      "title": "CFO",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/john-lesaffre-02bb161b",
+      "source_url": "https://rocketreach.co/john-lesaffre-email_15616557 | https://theorg.com/org/fessenden-school/org-chart | fessenden.org/about/leadership",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Steve Armstrong",
+      "title": "Head of School",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://theorg.com/org/fessenden-school/org-chart/steve-armstrong | fessenden.org/about/leadership",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "British International School of Boston",
+    "city": "Jamaica Plain", "state": "MA", "website": "bisb.org",
+    "current_software": "unknown", "estimated_tpv": 24403500, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Finance Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "Search returned conflicting/outdated names (Edward Prescott 2016, Susan Burke). Nord Anglia group school — finance may be managed regionally. Visit nordangliaeducation.com/bisb-boston senior leadership team directly.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Paul Keach",
+      "title": "Principal (Head of School)",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.nordangliaeducation.com/bisb-boston/parent-essentials/teachers/paul-keach | Nord Anglia 2023-2024 parent handbook",
+      "confidence": "medium"
+    }
+  },
+  {
+    "school_name": "New Canaan Country School",
+    "city": "New Canaan", "state": "CT", "website": "nccs.org",
+    "current_software": "unknown", "estimated_tpv": 23587500, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Victor Catano",
+      "title": "Chief Financial Officer",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/victor-catano-090036163",
+      "source_url": "https://www.countryschool.net/news-detail?pk=1351168 (official school announcement of July 2020 appointment)",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Aaron Cooper",
+      "title": "Head of School",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/aaroncooper3/",
+      "source_url": "https://www.countryschool.net/about-us/head-of-school-welcome | CT General Assembly testimony records",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "St. Francis Prep",
+    "city": "Fresh Meadows", "state": "NY", "website": "sfponline.org",
+    "current_software": "unknown", "estimated_tpv": 21804200, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Director of Finance / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "Finance staff not publicly indexed on sfponline.org. Call main number 718-423-8810 or visit sfponline.org/contact.asp. ZoomInfo employee directory may have names.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Patrick McLaughlin",
+      "title": "Principal",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.sfponline.org/PrincipalsMessage.asp | Note: school also has a President role (Br. Leonard Conway historically); check current status.",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "International School of Boston",
+    "city": "Cambridge", "state": "MA", "website": "isbos.org",
+    "current_software": "unknown", "estimated_tpv": 21573000, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Isabelle Praud",
+      "title": "CFO",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.isbos.org/about-us/leadership | https://rocketreach.co/international-school-of-boston-management_b5c0c24ef42e0858",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Richard Ulffers",
+      "title": "Head of School",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.isbos.org/about-us/leadership/richard-ulffers | https://rocketreach.co/richard-ulffers-email_16815266 (Head since July 2016)",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Kingswood Oxford School",
+    "city": "West Hartford", "state": "CT", "website": "ko.org",
+    "current_software": "unknown", "estimated_tpv": 21332025, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Colleen Woerlen",
+      "title": "Director of Finance & Operations",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/colleen-woerlen-6120aa4a/",
+      "source_url": "LinkedIn profile (Colleen Woerlen – Director of Finance & Operations – Kingswood Oxford School) | https://rocketreach.co/kingswood-oxford-school-management_b5d15739f42e4336",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Tom Dillow",
+      "title": "Head of School",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/tom-dillow-079ba094/",
+      "source_url": "https://www.kingswoodoxford.org/about/leadership/head-of-school/ | https://we-ha.com/kingswood-oxford-names-new-head-school/ (effective July 2018, continues 2024-2025)",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "New York Military Academy",
+    "city": "Cornwall", "state": "NY", "website": "nyma.org",
+    "current_software": "PayPal", "estimated_tpv": 12733000, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Director of Finance / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "ZoomInfo lists Filippo Di Carmine, Les McMillen, David Levers, Laura Hoffenberg as employees but finance role title not confirmed. Visit nyma.org or call (845) 534-3710.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Sunny Doman",
+      "title": "Head of School / Superintendent",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "nyma.org/about/superintendents-message/ | military schools directory listings",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Cardinal Spellman High School",
+    "city": "Bronx", "state": "NY", "website": "spellmanhs.org",
+    "current_software": "unknown", "estimated_tpv": 10959475, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Director of Finance / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "cardinalspellman.org staff/finance page exists but content is behind login or not indexed. Requires direct outreach. ZoomInfo may have names via paid access.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Therese McNicholas",
+      "title": "Interim President",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.zoominfo.com/p/Therese-Mcnicholas/1679821947 | spellmanhs.org administration",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Archbishop Williams High School",
+    "city": "Braintree", "state": "MA", "website": "archbishopwilliams.org",
+    "current_software": "unknown", "estimated_tpv": 9088200, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Paula Timmins",
+      "title": "CFO",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.zoominfo.com/c/archbishop-williams-high-school/6821004 | archbishopwilliams.org/about/meet-our-leadership",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Dennis M. Duggan Jr.",
+      "title": "President",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/dennis-m-duggan-esq-aaa3007a/",
+      "source_url": "https://www.awhs.org/about/meet-our-leadership | LinkedIn profile",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Notre Dame High School",
+    "city": "West Haven", "state": "CT", "website": "notredamehigh.com",
+    "current_software": "unknown", "estimated_tpv": 9026150, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Raymond Lynch",
+      "title": "VP Finance & Planning",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/raymond-lynch-6b3581a9",
+      "source_url": "https://rocketreach.co/raymond-lynch-email_19886275 | LinkedIn profile (Raymond Lynch – Notre Dame High School)",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Robert F. Curis",
+      "title": "President",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/robert-curis-49709424/",
+      "source_url": "https://www.notredamehs.com/about/president-s-welcome | LinkedIn profile",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "St. Paul Jr/Sr HS",
+    "city": "Worcester", "state": "MA", "website": "stpaulhigh.org",
+    "current_software": "unknown", "estimated_tpv": 6426000, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "Director of Finance / Business Manager",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "Finance officer not publicly listed. Diocese of Worcester manages some finances centrally. Visit schools.worcesterdiocese.org or call school directly.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Fr. Jose Carvajal",
+      "title": "Head of School",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://schools.worcesterdiocese.org/people/saint-paul-diocesan-jr-sr-high-school | Diocese of Worcester staff directory",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "St. Mary's High School",
+    "city": "Lynn", "state": "MA", "website": "smhlynn.org",
+    "current_software": "unknown", "estimated_tpv": 6372025, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Lindsay Lockwood",
+      "title": "COO (closest to finance lead; no dedicated CFO/Finance Director title found publicly)",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/lindsay-lockwood-mba-69519454/",
+      "source_url": "https://www.stmaryslynn.com/about/st-marys-leadership-team | LinkedIn (Lindsay Lockwood MBA)",
+      "confidence": "medium"
+    },
+    "contact_2_head": {
+      "full_name": "Dr. John F. Dolan",
+      "title": "Head of School",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/john-f-dolan-ed-d-81377319/",
+      "source_url": "https://www.stmaryslynn.com/about/st-marys-leadership-team | LinkedIn profile",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Hunter College High School",
+    "city": "New York", "state": "NY", "website": "hchs.hunter.cuny.edu",
+    "current_software": "unknown", "estimated_tpv": 0, "displacement_tier": 2,
+    "contact_1_finance": {
+      "full_name": "Research Required",
+      "title": "N/A — CUNY public school; finance managed at Hunter College / CUNY level",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "Hunter College HS is a publicly-funded selective school under Hunter College (CUNY). No school-level finance director. TPV = $0 for tuition. Low priority prospect.",
+      "confidence": "low"
+    },
+    "contact_2_head": {
+      "full_name": "Tony Fisher",
+      "title": "Principal",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/tony-fisher-bb177717/",
+      "source_url": "LinkedIn profile (Tony Fisher – Principal – Hunter College High School)",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Brooklyn Friends School",
+    "city": "Brooklyn", "state": "NY", "website": "bfs.org",
+    "current_software": "Stripe", "estimated_tpv": 32117250, "displacement_tier": 3,
+    "contact_1_finance": {
+      "full_name": "Clarence Zachery",
+      "title": "CFOO (Chief Financial & Operating Officer)",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.zoominfo.com/pic/brooklyn-friends-school/5669301 (c***@brooklynfriends.org email pattern) | https://www.eventscribe.net/2023/annualmeeting2023/fsPopup.asp?mode=presenterinfo&HPRID=1768144 (2023 NBOA presenter). Note: David Kleiser also listed as former CFO on LinkedIn — Zachery appears current.",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "Crissy Cáceres",
+      "title": "Head of School",
+      "email": "",
+      "linkedin_url": "https://www.linkedin.com/in/crissy-caceres/",
+      "source_url": "https://brooklynfriends.org/ournewheadofschool/ | https://brooklynfriends.org/about/welcomefromheadofschool/",
+      "confidence": "high"
+    }
+  },
+  {
+    "school_name": "Xavier High School",
+    "city": "Middletown", "state": "CT", "website": "xavierhighschool.org",
+    "current_software": "Stripe", "estimated_tpv": 9180000, "displacement_tier": 3,
+    "contact_1_finance": {
+      "full_name": "Daniel Cizauskas",
+      "title": "Director of Finance",
+      "email": "dcizauskas@xavierhighschool.org",
+      "linkedin_url": "",
+      "source_url": "https://www.xavierhighschool.org/apps/pages/index.jsp?uREC_ID=1726688&type=d&pREC_ID=1896668 (Finance Office page)",
+      "confidence": "high"
+    },
+    "contact_2_head": {
+      "full_name": "David C. Eustis Jr.",
+      "title": "Headmaster",
+      "email": "",
+      "linkedin_url": "",
+      "source_url": "https://www.xavierhighschool.org/about-us/our-headmaster | Note: school also has a President role; confirm current structure.",
+      "confidence": "high"
+    }
+  }
+]
